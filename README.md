@@ -71,5 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 This is how it looks like.
 ![screencapture-localhost-3000-2023-01-12-13_31_13](https://user-images.githubusercontent.com/69852923/212010898-14dfed3d-8228-4b77-9248-a4d3c336873f.png)
+In this, we can choose different currencies and see the rates of that currency. As data is dynamic, it will show the most current data, as well as we can see the data values upto 1 year.
+![image](https://user-images.githubusercontent.com/69852923/212012541-4f8e01e0-4abe-417b-aae2-3870fa3c64fd.png)
 
 
